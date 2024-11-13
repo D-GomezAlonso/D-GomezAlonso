@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a frontend developer residing in Spain! My github is mainly about my nerdy passion projects and some learning ones :) 
+
+Pleased to meet you ^^
 <!--
 **D-GomezAlonso/D-GomezAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
